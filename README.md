@@ -1,4 +1,4 @@
--# Hi, I'm Wasif Hussain 👋
+# Hi, I'm Wasif Hussain 👋
 
 **Software Engineer | Java & Spring Boot | Backend Systems**
 
@@ -22,8 +22,3 @@ I build reliable software with a focus on backend development, REST APIs, micros
 ## 📫 Contact
 
 **Email:** [hussainwasif1999@gmail.com](mailto:hussainwasif1999@gmail.com)
-
-<!---
-WasifHussain/WasifHussain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
